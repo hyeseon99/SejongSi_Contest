@@ -32,8 +32,10 @@
 
 ---
 
-### 🌟 기술 스택
-- **프로그래밍 언어:** Python
-- **도구 및 플랫폼:** Streamlit, Jupyter Notebook, VS Code
-- **데이터 분석:** Pandas, NumPy, Scikit-learn
-- **시각화 도구:** Matplotlib, Seaborn
+#### 💻 **기술 스택**
+- **데이터 분석 및 전처리:** Python (Pandas, NumPy), Oracle SQL
+- **사이트 제작 및 시각화:** Streamlit, R (Shiny)
+
+#### 🌐 **성과**
+- **Streamlit 사이트:** [세종엔 추천 시스템](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)
+
