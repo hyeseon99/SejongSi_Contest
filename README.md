@@ -41,15 +41,15 @@
   <tr>
     <td align="center">
       <img src="./세종시공모전1.png" alt="세종시 공모전 메인 슬라이드" width="400">
-      <p>세종시 공모전 슬라이드 1</p>
+      <p>세종시 공모전 메인 슬라이드</p>
     </td>
     <td align="center">
       <img src="./세종시공모전2.png" alt="세종엔 결합 AI 챗봇 모바일 화면 " width="400">
-      <p>세종시 공모전 슬라이드 2</p>
+      <p>세종엔 결합 AI 챗봇 모바일 화면</p>
     </td>
     <td align="center">
       <img src="./세종시공모전3.png" alt="세종엔 결합 맞춤형 음식점 추천 구현 모바일 화면" width="400">
-      <p>세종시 공모전 슬라이드 3</p>
+      <p>세종엔 결합 맞춤형 음식점 추천 구현 모바일 화면</p>
     </td>
   </tr>
 </table>
