@@ -51,7 +51,8 @@
 
 ### 🔗 프로젝트 관련 링크
 <img src="./homepage.png" alt="세종시 공모전 슬라이드 1" width="600">
-- **웹페이지 URL:** [세종엔 추천 시스템](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)
+
+- **웹페이지 URL**: [세종엔 추천 시스템](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)
 
 ---
 
