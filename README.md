@@ -36,10 +36,26 @@
 ---
 ### 🌟 프로젝트 이미지
 - 아래는 프로젝트 발표 자료에서 사용된 대표 슬라이드입니다.
+  
+  <table align="center">
+  <tr>
+    <td align="center">
+      <img src="./세종시공모전1.png" alt="세종시 공모전 슬라이드 1" width="400">
+      <p>세종시 공모전 슬라이드 1</p>
+    </td>
+    <td align="center">
+      <img src="./세종시공모전2.png" alt="세종시 공모전 슬라이드 2" width="400">
+      <p>세종시 공모전 슬라이드 2</p>
+    </td>
+    <td align="center">
+      <img src="./세종시공모전3.png" alt="세종시 공모전 슬라이드 3" width="400">
+      <p>세종시 공모전 슬라이드 3</p>
+    </td>
+  </tr>
+</table>
 
-<img src="./세종시공모전1.png" alt="세종시 공모전 슬라이드 1" width="600">
-<img src="./세종시공모전2.png" alt="세종시 공모전 슬라이드 2" width="600">
-<img src="./세종시공모전3.png" alt="세종시 공모전 슬라이드 3" width="600">
+
+
 
 ### 📄 프로젝트 제출 문서
 - **세종시 공모전 프로젝트 제출 최종 문서**  
